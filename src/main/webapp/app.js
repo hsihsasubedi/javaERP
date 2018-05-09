@@ -1,0 +1,1 @@
+var app = angular.module('myapp',['ngRoute','ngTouch','ngAnimate','ui.bootstrap', 'naif.base64']);
